@@ -1,0 +1,21 @@
+1612272472142	geckodriver	INFO	Listening on 127.0.0.1:43364
+1612272473010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZz0WOE"
+*** You are running in headless mode.
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is GB
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1612272475457	Marionette	INFO	Listening on port 37020
+1612272475548	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612272475562	Marionette	ERROR	[15] No reply from Marionette:Register
+1612272488755	Marionette	INFO	Stopped listening on port 37020
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

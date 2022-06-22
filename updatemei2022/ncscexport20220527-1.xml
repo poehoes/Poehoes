@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0">
+
+<channel>
+<item>
+<title>NCSC-2022-0339 [1.01] [H/M] Kwetsbaarheid verholpen in ecdsautils</title>
+<link>https://advisories.ncsc.nl/advisory?id=NCSC-2022-0339</link>
+<pubDate>16-05-2022 00:00</pubDate>
+<description>Debian heeft een kwetsbaarheid verholpen in ecdsautils. Dit is een library die wordt gebruikt voor cryptografische toepassingen op basis van ECDSA.</description>
+</item>
+<item>
+<title>NCSC-2022-0340 [1.00] [M/H] Kwetsbaarheden verholpen in HPE Integrated Lights-Out</title>
+<link>https://advisories.ncsc.nl/advisory?id=NCSC-2022-0340</link>
+<pubDate>10-05-2022 00:00</pubDate>
+<description>HPE heeft een kwetsbaarheid verholpen in Integrated Lights-Out. De kwetsbaarheid stelt een geauthenticeerde kwaadwillende op afstand in staat een denial-of-service te veroozaken. Er zijn weinig inhoudelijke details over de kwetsbaarheid publiek beschikbaar gesteld.</description>
+</item>
+<item>
+<title>NCSC-2022-0341 [1.00] [M/H] Kwetsbaarheden verholpen in Siemens producten</title>
+<link>https://advisories.ncsc.nl/advisory?id=NCSC-2022-0341</link>
+<pubDate>10-05-2022 00:00</pubDate>
+<description>Er zijn kwetsbaarheden verholpen in diverse producten van Siemens. De kwetsbaarheden stellen een kwaadwillende in staat aanvallen uit te voeren die leiden tot de volgende categorieën schade:
+</description>
+</item>
+</channel>
+</rss>

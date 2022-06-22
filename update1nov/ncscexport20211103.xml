@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0">
+
+<channel>
+<item>
+<title>NCSC-2021-0895 [1.00] [M/H] Kwetsbaarheid verholpen in OTRS</title>
+<link>https://advisories.ncsc.nl/advisory?id=NCSC-2021-0895</link>
+<pubDate>19-10-2021 00:00</pubDate>
+<description>Er is een kwetsbaarheid verholpen in OTRS. Een kwaadwillende op afstand kan de kwetsbaarheid mogelijk misbruiken om een Denial-of-Service te veroorzaken. OTRS gebruikt de verouderde npm-module "resolve-url-loader" die afhankelijk is van de module "postcs" en kwetsbaar is voor de ReDoS-aanval.</description>
+</item>
+<item>
+<title>NCSC-2021-0896 [1.00] [M/H] Kwetsbaarheden verholpen in Trend Micro Apex One</title>
+<link>https://advisories.ncsc.nl/advisory?id=NCSC-2021-0896</link>
+<pubDate>19-10-2021 00:00</pubDate>
+<description>Er zijn kwetsbaarheden verholpen in Trend Micro Apex One. Een kwaadwillende kan de kwetsbaarheid mogelijk misbruiken om een Denial-of-Service te veroorzaken of willekeurige code uitvoeren met de SYSTEM-rechten.</description>
+</item>
+<item>
+<title>NCSC-2021-0897 [1.00] [M/M] Kwetsbaarheden verholpen in Google Chrome</title>
+<link>https://advisories.ncsc.nl/advisory?id=NCSC-2021-0897</link>
+<pubDate>20-10-2021 00:00</pubDate>
+<description>Google heeft versie 95.0.4638.54 uitgebracht van Chrome voor Windows, MacoOS en Linux. Een kwaadwillende kan de kwetsbaarheden mogelijk misbruiken voor het veroorzaken van een Denial-of-Service, of voor het uitvoeren van willekeurige code in de context van de browser.</description>
+</item>
+<item>
+<title>NCSC-2021-0898 [1.00] [M/M] Kwetsbaarheden verholpen in Nitro Pro PDF</title>
+<link>https://advisories.ncsc.nl/advisory?id=NCSC-2021-0898</link>
+<pubDate>20-10-2021 00:00</pubDate>
+<description>Er zijn kwetsbaarheden verholpen in Nitro Pro PDF. De kwetsbaarheden stellen een ongeauthenticeerde kwaadwillende op afstand in gelegenheid willekeurige code uit te voeren onder de rechten van de applicatie. De kwaadwillende moet hiertoe het slachtoffer verleiden een malafide bestand te openen.</description>
+</item>
+<item>
+<title>NCSC-2021-0899 [1.00] [M/H] Kwetsbaarheid verholpen in Huawei S5700 switch serie</title>
+<link>https://advisories.ncsc.nl/advisory?id=NCSC-2021-0899</link>
+<pubDate>20-10-2021 00:00</pubDate>
+<description>Huawei heeft een kwetsbaarheid verholpen in de S5700 switch serie. Een kwaadwillende op afstand kan de kwetsbaarheid misbruiken om een Denial-of-Service te veroorzaken.</description>
+</item>
+<item>
+<title>NCSC-2021-0900 [1.00] [H/M] Kwetsbaarheden verholpen in Oracle Fusion Middleware</title>
+<link>https://advisories.ncsc.nl/advisory?id=NCSC-2021-0900</link>
+<pubDate>20-10-2021 00:00</pubDate>
+<description>Oracle heeft kwetsbaarheden verholpen in de volgende Oracle Fusion Middleware-producten:</description>
+</item>
+<item>
+<title>NCSC-2021-0901 [1.00] [M/H] Kwetsbaarheden verholpen in Oracle Essbase</title>
+<link>https://advisories.ncsc.nl/advisory?id=NCSC-2021-0901</link>
+<pubDate>20-10-2021 00:00</pubDate>
+<description>Oracle heeft kwetsbaarheden verholpen in Hyperion Essbase Administration Services. De kwetsbaarheden stellen een kwaadwillende mogelijk in staat aanvallen uit te voeren die leiden tot de volgende categorieën schade:</description>
+</item>
+<item>
+<title>NCSC-2021-0902 [1.01] [M/H] Kwetsbaarheden verholpen in Oracle MySQL</title>
+<link>https://advisories.ncsc.nl/advisory?id=NCSC-2021-0902</link>
+<pubDate>26-10-2021 00:00</pubDate>
+<description>Oracle heeft kwetsbaarheden verholpen in de volgende MySQL-producten: </description>
+</item>
+</channel>
+</rss>

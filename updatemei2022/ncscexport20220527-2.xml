@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0">
+
+<channel>
+<item>
+<title>NCSC-2022-0355 [1.00] [M/M] Kwetsbaarheid verholpen in Dell iDRAC9</title>
+<link>https://advisories.ncsc.nl/advisory?id=NCSC-2022-0355</link>
+<pubDate>12-05-2022 00:00</pubDate>
+<description>Dell heeft een kwetsbaarheid verholpen in iDRAC9. De kwetsbaarheid stelt een ongeauthenticeerde kwaadwillende in staat authenticatie te omzeilen en toegang te krijgen tot de VNC-console.</description>
+</item>
+<item>
+<title>NCSC-2022-0356 [1.00] [M/M] Kwetsbaarheden verholpen in IBM MQ</title>
+<link>https://advisories.ncsc.nl/advisory?id=NCSC-2022-0356</link>
+<pubDate>12-05-2022 00:00</pubDate>
+<description>IBM heeft meerdere kwetsbaarheden verholpen in ondersteunende software geleverd bij IBM MQ. De kwetsbaarheden bevinden zich in Java, Eclipse Jetty en Websphere Liberty en zijn eerder verholpen in de individuele producten. Een kwaadwillende kan de kwetsbaarheden mogelijk misbruiken voor het veroorzaken van een Denial-of-Service, of om systeemgegevens te verkrijgen, welke mogelijk gebruikt kunnen worden voor verdere aanvallen.</description>
+</item>
+<item>
+<title>NCSC-2022-0357 [1.01] [H/M] Kwetsbaarheid verholpen in Zyxel ATP-, USG- en VPN-producten</title>
+<link>https://advisories.ncsc.nl/advisory?id=NCSC-2022-0357</link>
+<pubDate>16-05-2022 00:00</pubDate>
+<description>Zyxel heeft een kwetsbaarheid verholpen in producten uit de ATP-, USG- en VPN-productenlijn. Een ongeauthenticeerde kwaadwillende met toegang tot de managementinterface kan de kwetsbaarheid misbruiken voor het uitvoeren van willekeurige code onder rechten van de nobody-user. Voor de kwetsbaarheid is exploitcode publiek beschikbaar.</description>
+</item>
+</channel>
+</rss>

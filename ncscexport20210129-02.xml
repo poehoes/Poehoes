@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0">
+
+<channel>
+<item>
+<title>NCSC-2021-0052 [1.00] [M/M] Kwetsbaarheid verholpen in Atlassian Confluence</title>
+<link>https://advisories.ncsc.nl/advisory?id=NCSC-2021-0052</link>
+<pubDate>19-01-2021 00:00</pubDate>
+<description>Er is een kwetsbaarheid verholpen in Atlassian Confluence. De kwetsbaarheid stelt een kwaadwillende in staat een Denial-of-Service te veroorzaken.</description>
+</item>
+<item>
+<title>NCSC-2021-0053 [1.00] [M/H] Kwetsbaarheid verholpen in NetApp producten</title>
+<link>https://advisories.ncsc.nl/advisory?id=NCSC-2021-0053</link>
+<pubDate>20-01-2021 00:00</pubDate>
+<description>Er is een kwetsbaarheid verholpen in NetApp producten. De kwetsbaarheid stelt een kwaadwillende in staat om gevoelige gegevens te bemachtigen.</description>
+</item>
+<item>
+<title>NCSC-2021-0054 [1.00] [L/M] Kwetsbaarheid verholpen in Red Hat kernel</title>
+<link>https://advisories.ncsc.nl/advisory?id=NCSC-2021-0054</link>
+<pubDate>20-01-2021 00:00</pubDate>
+<description>Er is een kwetsbaarheid verholpen in de Red Hat kernel. De kwetsbaarheid stelt een lokale kwaadwillende in staat een Denial-of-Service te veroorzaken en gegevens te wijzigen.</description>
+</item>
+<item>
+<title>NCSC-2021-0055 [1.00] [M/H] Kwetsbaarheden verholpen in Red Hat OpenShift Virtualization</title>
+<link>https://advisories.ncsc.nl/advisory?id=NCSC-2021-0055</link>
+<pubDate>20-01-2021 00:00</pubDate>
+<description>Red Hat heeft meerdere kwetsbaarheden verholpen in OpenShift Virtualization. De kwetsbaarheden stellen een kwaadwillende mogelijk in staat aanvallen uit te voeren die leiden tot de volgende categorieën schade:
+</description>
+</item>
+</channel>
+</rss>
